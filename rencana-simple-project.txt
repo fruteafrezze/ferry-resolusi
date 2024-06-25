@@ -3,6 +3,7 @@ Rencana Project untuk java dan python
 1. java
 - membuat project toko sembako
 ~  toko ini menyediakan berbagai macam kebutuhan pokok dan memiliki system login dan toko mendapat distribusi barang dari distributor tertentu
+~  menggunakan sistem OOP dalam pembuatan project
 
 2. python
 - membuat project dengan data set yang berbeda
