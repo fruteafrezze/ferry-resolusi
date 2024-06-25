@@ -1,0 +1,9 @@
+Rencana Project untuk java dan python
+
+1. java
+- membuat project toko sembako
+~  toko ini menyediakan berbagai macam kebutuhan pokok dan memiliki system login dan toko mendapat distribusi barang dari distributor tertentu
+
+2. python
+- membuat project dengan data set yang berbeda
+~  membuat ulang project UTS 2 PAD dengan data set yang berbeda dan menggunakan langkah/cara yang sama
