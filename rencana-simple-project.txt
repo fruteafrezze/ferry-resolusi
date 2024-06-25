@@ -1,0 +1,7 @@
+Rencana Project untuk java dan python
+
+1. java
+- membuat project toko sembako
+
+2. python
+- membuat project dengan data set yang berbeda
