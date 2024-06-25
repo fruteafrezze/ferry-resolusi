@@ -5,3 +5,4 @@ Ferry Resolusi
 - saya ingin bekerja menggunakan github ini
 - saya ingin membuat project simpel java
 - saya ingin membuat project simpel python
+- saya ingin masuk ke ukm PSMCF
