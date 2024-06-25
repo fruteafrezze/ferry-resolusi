@@ -1,5 +1,6 @@
 Ferry Resolusi
 - saya ingin menjadi asdos di semester depan
+  ^ menjadi asdos alpro pak Eka
 - saya ingin masuk ke peminatan jaringan
 - saya ingin bekerja menggunakan github ini
 - saya ingin membuat project simpel java
